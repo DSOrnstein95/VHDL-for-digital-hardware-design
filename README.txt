@@ -15,3 +15,5 @@ which causes the resistance of the wheel to increase after 1 minute until the ma
 
 --13-04-2022: Updated my  project with 1. A fully working testbench displaying all input, internal and output signals
 --						   2. Managed to reduce amount of logic cells without any reduction in performance by doing some adjustments in the module components
+--14-04-2022: updated the project with 1. Removed all  possibilities for delta delays or potential bugs 
+--																     2. More combinatorial logic was needed, but now the system can be considered flawless 
